@@ -1,2 +1,2 @@
-# project1
+# college admission system
 college admission system
